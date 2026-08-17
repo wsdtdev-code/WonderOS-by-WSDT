@@ -1,21 +1,31 @@
-MIT License
+# WonderOS Proprietary License
 
-Copyright (c) 2026 WSDT dev
+**Copyright © 2026 Wonder Development Team. All rights reserved.**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software, **WonderOS**, is proprietary software owned by the Wonder Development Team.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Permission to Use
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You are permitted to download and use WonderOS for personal, educational, and non-commercial purposes.
+
+## Restrictions
+
+Without prior written permission from the Wonder Development Team, you may **not**:
+
+* Copy, reproduce, or redistribute WonderOS or substantial portions of it.
+* Modify, reverse engineer, decompile, or create derivative versions of WonderOS.
+* Sell, sublicense, or commercially distribute WonderOS.
+* Claim WonderOS or its code, assets, or branding as your own.
+* Remove or alter copyright, license, or ownership notices.
+
+## Ownership
+
+All rights, title, and interest in WonderOS, including its code, assets, design, and branding, remain with the Wonder Development Team.
+
+Permission to use WonderOS does **not** transfer ownership or intellectual-property rights.
+
+## Disclaimer
+
+WonderOS is provided **"as is"**, without warranties of any kind. The Wonder Development Team is not liable for damages or losses resulting from the use of the software.
+
+**For permissions not granted by this license, contact the Wonder Development Team at wsdtdev@gmail.com.**
